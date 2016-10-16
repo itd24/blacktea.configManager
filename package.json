@@ -1,0 +1,22 @@
+{
+  "name": "blacktea.configmanager",
+  "version": "0.1.0",
+  "description": "A configuration manager that manages configuration inside json files",
+  "main": "index.js",
+  "author": {
+    "name": "itd24",
+    "email": "ziga.petek2@gmail.com"
+  },
+  "keywords": [
+    "blacktea",
+    "configuration",
+    "config",
+    "manager",
+    "json"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "node-json-db": "^0.7.3"
+  }
+}
