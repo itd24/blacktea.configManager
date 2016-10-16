@@ -148,6 +148,7 @@ The functions exposed to the templating library are:
 - packageJson
 <br/><br/>
 This module was made by using the exceptional library [node-json-db](https://github.com/Belphemur/node-json-db)
+
 ##Documentation
 -***get(configPath, jsonPath)***<br/>
 gets a configuration value. Throws an exception if the value doesn't exist.<br/>
