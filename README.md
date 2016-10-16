@@ -213,7 +213,6 @@ empties a configuration array<br/>
 -***packageJson(configPath, defaultValue)***<br/>
 an attempt to read the package.json file. The module searches for the file in the root directory<br/>
 ***jsonPath*** - the configuration path to the value inside the package.json<br/>
-***defaultValue*** - the default value to return if the configuration wasn't found<br/>
-<br/>
+***defaultValue*** - the default value to return if the configuration wasn't found
 ##Licence
 blacktea.configManager is released under the [MIT License](http://www.opensource.org/licenses/MIT).
