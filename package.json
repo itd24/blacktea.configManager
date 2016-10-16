@@ -19,6 +19,6 @@
     "lodash": "^4.15.0",
     "node-json-db": "^0.7.3",
     "blacktea.exceptions":"^0.1.1",
-    "blacktea.jsonTemplates":"^0.1.1"
+    "blacktea.jsonTemplates":"^0.1.2"
   }
 }
